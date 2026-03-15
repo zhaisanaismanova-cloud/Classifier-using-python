@@ -1,3 +1,4 @@
+using the package  scikit-learn: 
 Created a dataset using make_moons(n_samples=10000, noise=0.4).
 Splitted the dataset into training and test subsets using the train_test_split() method.
 Used a tree as a classifier DecisionTreeClassifier). Investigated the operation of the tree for entropy and Gini coefficient and different depths of the tree.
